@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>Ustaxona</title><g transform="translate(-43.01 -48.13) scale(1.336)">
+  
+  <!-- the small-size cut for 16-32 px: strokes 44 instead of 36, a 24 gap instead of 14, so the last step stays apart -->
+  <g transform="translate(0 -4)">
+    <path fill="#0D8E9B" d="M60 62 A22 22 0 0 1 104 62 V156 A24 24 0 0 0 152 156 V154 A22 22 0 0 1 196 154 V156 A68 68 0 0 1 60 156 Z"/>
+    <path fill="#CC7400" d="M152 62 A22 22 0 0 1 196 62 V86 A22 22 0 0 1 152 86 Z"/>
+  </g>
+</g></svg>
